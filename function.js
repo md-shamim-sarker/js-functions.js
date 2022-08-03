@@ -1,8 +1,3 @@
-# js-functions.js
-
-## 4 Processes to write JavaScript Function
-
-```js
 // Process 1
 
 {
@@ -36,4 +31,3 @@
     const myFunction = (x, y) => x + y;
     console.log(myFunction(50, 10));
 }
-```
